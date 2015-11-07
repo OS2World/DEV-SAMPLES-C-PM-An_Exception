@@ -1,0 +1,13 @@
+
+NAME            Except WINDOWAPI
+
+DESCRIPTION	'Example Exception Handler'
+
+CODE	        MOVEABLE
+DATA	        MULTIPLE MOVEABLE
+
+STACKSIZE	16384
+
+PROTMODE
+
+EXETYPE		OS2

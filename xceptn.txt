@@ -1,0 +1,34 @@
+*******************************************************************
+*                                                                 *
+* Subject: OS/2 Developer Magazine, GUI Corner column,            *
+*          "An Exception You Can Handle" - Jan/Feb 1995 issue.    *
+* Purpose: Compilable 32-Bit source code sample to illustrate     *
+*          exception handling within OS/2.                        *
+* Authors: Matt Smith, Prominare Inc.                             *
+*          Mark Benge, IBM Software Solutions                     *
+*                                                                 *
+* Revisions:                                                      *
+*          Version 1 - Initial cut                                *
+*                                                                 *
+*******************************************************************
+*******************************************************************
+********************  D I S C L A I M E R  ************************
+* This code is provided on an asis basis with no implied support. *
+* It should be considered freeware that cannot be rebundled as    *
+* part of a larger "*ware" offering without our consent.          *
+*******************************************************************
+*
+* This self-extracting zip file contains the source and executable to
+* demonstrate an exception handler.  See README.NOW for additional
+* information.  We've included a makefile for the C Set++ compiler.
+*
+* Please direct any comments, questions, and such to either Matt Smith
+* (Internet: msmith@interlog.com CompuServe: 70363,1175) or Mark Benge
+* (Internet: banzai@vnet.ibm.com CompuServe: 73532,2063  VNET: banzai AT CARVM3)
+*
+* Please note that this code is freeware and is provided on an "AS IS"
+* basis, without any type of support.
+*
+* Stay tuned for the March/April '95 issue of the OS/2 Developer,
+* as we begin a series of articles on OS/2 printing.
+*
