@@ -16,4 +16,4 @@ AUTHORS
 
 LINKS
 ===============
-* 
+* https://archive.org/details/os2devmag/OS2DevMag-V7N1/page/n17/mode/2up
